@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2eb22fe598d7984585f5814499575b6
+timeCreated: 1500500200
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95964
+  packageName: Realistic Sandbags
+  packageVersion: 1.0
+  assetPath: Assets/FlamingSands/sandbags/Materials/sandbag_01.mat
+  uploadId: 190900

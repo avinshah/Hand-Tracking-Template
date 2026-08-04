@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7889b3e42b29881408a396ea8303773f
+timeCreated: 1500500940
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95964
+  packageName: Realistic Sandbags
+  packageVersion: 1.0
+  assetPath: Assets/FlamingSands/sandbags/sandbags.prefab
+  uploadId: 190900
