@@ -28,6 +28,8 @@ TagManager:
   - Bouncable
   - Target
   - Grabbable
+  - SpectatorCamera
+  - Gas
   layers:
   - Default
   - TransparentFX
