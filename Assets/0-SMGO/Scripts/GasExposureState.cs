@@ -7,14 +7,20 @@ public class GasExposureState : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Gas"))
+        {
             Debug.Log("IN GAS CLOUD");
-        HeadInGas = true;
+            HeadInGas = true;
+        }
+           
     }
 
     private void OnTriggerExit(Collider other)
     {
         if (other.CompareTag("Gas"))
+        {
             Debug.Log("IN FRESH AIR");
-        HeadInGas = false;
+            HeadInGas = false;
+        }
+            
     }
 }

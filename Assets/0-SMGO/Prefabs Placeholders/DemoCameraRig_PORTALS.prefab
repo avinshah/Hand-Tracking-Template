@@ -960,7 +960,7 @@ GameObject:
   - component: {fileID: 2327802831125630854}
   - component: {fileID: 191118219384102271}
   m_Layer: 0
-  m_Name: DemoCameraRig
+  m_Name: DemoCameraRig_PORTALS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

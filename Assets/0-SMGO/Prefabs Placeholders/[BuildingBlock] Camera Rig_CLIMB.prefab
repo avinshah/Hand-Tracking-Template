@@ -1232,7 +1232,7 @@ GameObject:
   - component: {fileID: 2378139912549355836}
   - component: {fileID: 4373184642826212367}
   m_Layer: 0
-  m_Name: '[BuildingBlock] Camera Rig CLIMB'
+  m_Name: '[BuildingBlock] Camera Rig_CLIMB'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
