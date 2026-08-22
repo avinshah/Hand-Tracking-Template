@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd555a697a7e26c4e878e020ec144494
+timeCreated: 1460647969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Prefabs/Ground_Simple_Elements/Ground_Corner.prefab
+  uploadId: 194470

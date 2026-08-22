@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9dce4b9b0a325649b4ee855c26a2976
+timeCreated: 1460617117
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Prefabs/Ground_Simple_Elements/Ground_End.prefab
+  uploadId: 194470

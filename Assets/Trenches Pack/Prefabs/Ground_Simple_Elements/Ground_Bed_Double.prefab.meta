@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a3f814a54cba37488c6fdf0f4d39c18
+timeCreated: 1460558823
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Prefabs/Ground_Simple_Elements/Ground_Bed_Double.prefab
+  uploadId: 194470

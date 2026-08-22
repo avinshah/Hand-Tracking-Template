@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d8b3afea600d084b90f7de5667d32d4
+timeCreated: 1460557625
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Prefabs/Ground_Simple_Elements/Ground_Bed.prefab
+  uploadId: 194470

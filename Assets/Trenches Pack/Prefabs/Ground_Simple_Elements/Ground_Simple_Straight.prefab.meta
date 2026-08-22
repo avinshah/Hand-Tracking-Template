@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 49503dee699a8484ba78a0b97d2c16ab
+timeCreated: 1460613129
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Prefabs/Ground_Simple_Elements/Ground_Simple_Straight.prefab
+  uploadId: 194470

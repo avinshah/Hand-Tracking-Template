@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b71f1c85cbdfb74eaafa4b26bf1821d
+timeCreated: 1460631780
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Prefabs/Ground_Simple_Elements/Ground_End_Ramp.prefab
+  uploadId: 194470

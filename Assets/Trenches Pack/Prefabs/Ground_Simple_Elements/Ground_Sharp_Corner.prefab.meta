@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abfd46fdc9562f64a994697213b53194
+timeCreated: 1501514187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Prefabs/Ground_Simple_Elements/Ground_Sharp_Corner.prefab
+  uploadId: 194470

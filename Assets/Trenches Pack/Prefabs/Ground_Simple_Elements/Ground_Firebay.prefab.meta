@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8dece86e047445489976ddce3455a23
+timeCreated: 1460652663
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Prefabs/Ground_Simple_Elements/Ground_Firebay.prefab
+  uploadId: 194470

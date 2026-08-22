@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f04f38a5216c7745a029283f44be7cb
+timeCreated: 1461241180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Sources/Animations/Wood_Door.controller
+  uploadId: 194470

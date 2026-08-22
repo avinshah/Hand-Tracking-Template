@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1323ef31d8f0ca48aaded2f3ea6d633
+timeCreated: 1460791250
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61358
+  packageName: Trenches Pack
+  packageVersion: 1.1
+  assetPath: Assets/Trenches Pack/Prefabs/Ground_Simple_Elements/Ground_X_Intersection.prefab
+  uploadId: 194470
