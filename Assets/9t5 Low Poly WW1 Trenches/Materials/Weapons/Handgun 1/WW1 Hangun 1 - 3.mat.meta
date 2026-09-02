@@ -2,15 +2,7 @@ fileFormatVersion: 2
 guid: bb83679e7536db943bde620008c53dd8
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 2100000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 194071
-  packageName: 9t5 Low Poly WW1 Trenches
-  packageVersion: 1.0
-  assetPath: Assets/9t5 Low Poly WW1 Trenches/Materials/Weapons/Handgun 1/WW1 Hangun
-    1 - 3.mat
-  uploadId: 430153
